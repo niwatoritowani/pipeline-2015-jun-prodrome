@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Summary
 
 This an implementation of the PNL's INTRuST pipeline using the lightweight
@@ -230,6 +229,3 @@ Right now for some datasets the mask generation step (the step that creates
 `<case>.t1atlasmask.nrrd` using the code from
 https://github.com/pnlbwh/skullstripping-ants) occassionally fails with a
 segmentation fault.  `skullstripping-ants` is being debugged to fix this issue.
-=======
-# pipeline-2015-jun-prodrome
->>>>>>> f161043c7a6abd61286b27a5b3cdeb20506126de
