@@ -1,0 +1,12 @@
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321100084/strct_jun/align-space/321100084-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321100110/strct_jun/align-space/321100110-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321100122/strct_jun/align-space/321100122-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321100235/strct_jun/align-space/321100235-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321100302/strct_jun/align-space/321100302-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400081/strct_jun/align-space/321400081-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400146/strct_jun/align-space/321400146-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400177/strct_jun/align-space/321400177-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400205/strct_jun/align-space/321400205-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400293/strct_jun/align-space/321400293-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/321400297/strct_jun/align-space/321400297-t1w-realign.nrrd
+/projects/schiz/3Tdata/PRODROMES/2015-jun-prodrome/322100035/strct_jun/align-space/322100035-t1w-realign.nrrd
