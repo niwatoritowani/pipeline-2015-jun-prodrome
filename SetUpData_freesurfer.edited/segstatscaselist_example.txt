@@ -1,0 +1,6 @@
+setenv SUBJECTS_DIR /rfanfs/pnl-zorro/Collaborators/jun/2015-jun-prodrome/pipeline/${case}/strct
+recon-all -segstats -subjid ${case}.freesurfer.edited
+setenv SUBJECTS_DIR /rfanfs/pnl-zorro/Collaborators/jun/2015-jun-prodrome/pipeline/${case}/strct
+recon-all -segstats -subjid ${case}.freesurfer.edited
+setenv SUBJECTS_DIR /rfanfs/pnl-zorro/Collaborators/jun/2015-jun-prodrome/pipeline/${case}/strct
+recon-all -segstats -subjid ${case}.freesurfer.edited

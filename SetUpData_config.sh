@@ -19,5 +19,5 @@ t2=$base/$case/raw/$case-t2w.nhdr # Optional: 't2' needed for dwi epi correction
 
 # If you want the pipeline to stop and wait for you to edit the
 # DWI mask or generated T1 mask, then uncomment these lines
-#ATLASMASK_EDIT=true
+ATLASMASK_EDIT=true
 #DWIMASK_EDIT=true
